@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/climatefront/static/css/main.193ac595.chunk.css",
+    "main.js": "/climatefront/static/js/main.a7de763b.chunk.js",
+    "main.js.map": "/climatefront/static/js/main.a7de763b.chunk.js.map",
+    "runtime-main.js": "/climatefront/static/js/runtime-main.d09210ac.js",
+    "runtime-main.js.map": "/climatefront/static/js/runtime-main.d09210ac.js.map",
+    "static/css/2.c0725856.chunk.css": "/climatefront/static/css/2.c0725856.chunk.css",
+    "static/js/2.cdbd3f2d.chunk.js": "/climatefront/static/js/2.cdbd3f2d.chunk.js",
+    "static/js/2.cdbd3f2d.chunk.js.map": "/climatefront/static/js/2.cdbd3f2d.chunk.js.map",
+    "static/js/3.3bf374a2.chunk.js": "/climatefront/static/js/3.3bf374a2.chunk.js",
+    "static/js/3.3bf374a2.chunk.js.map": "/climatefront/static/js/3.3bf374a2.chunk.js.map",
+    "index.html": "/climatefront/index.html",
+    "static/css/2.c0725856.chunk.css.map": "/climatefront/static/css/2.c0725856.chunk.css.map",
+    "static/css/main.193ac595.chunk.css.map": "/climatefront/static/css/main.193ac595.chunk.css.map",
+    "static/js/2.cdbd3f2d.chunk.js.LICENSE.txt": "/climatefront/static/js/2.cdbd3f2d.chunk.js.LICENSE.txt",
+    "static/media/logo.62d3bebf.png": "/climatefront/static/media/logo.62d3bebf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d09210ac.js",
+    "static/css/2.c0725856.chunk.css",
+    "static/js/2.cdbd3f2d.chunk.js",
+    "static/css/main.193ac595.chunk.css",
+    "static/js/main.a7de763b.chunk.js"
+  ]
+}
